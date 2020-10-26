@@ -1,0 +1,12 @@
+{
+  "name": "GameApp",
+  "displayName": "GameApp",
+  "expo": {
+    "name": "GameApp",
+    "slug": "GameApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
